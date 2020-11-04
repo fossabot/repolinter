@@ -1,4 +1,5 @@
 # ![Repo Linter](docs/images/P_RepoLinter01_logo_only.png) ![Build Status](https://github.com/todogroup/repolinter/workflows/Build/badge.svg)
+[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2Fxnzz%2Frepolinter.svg?type=shield)](https://app.fossa.com/projects/git%2Bgithub.com%2Fxnzz%2Frepolinter?ref=badge_shield)
 
 Lint open source repositories for common issues.
 
@@ -77,6 +78,9 @@ All languages:
 
 ### license-file-exists
 Fails if there isn't a file matching ```LICENSE*``` or ```COPYING*``` in the root of the target directory.
+
+
+[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2Fxnzz%2Frepolinter.svg?type=large)](https://app.fossa.com/projects/git%2Bgithub.com%2Fxnzz%2Frepolinter?ref=badge_large)
 
 ### readme-file-exists
 Fails if there isn't a file matching ```README*``` in the root of the target directory.
